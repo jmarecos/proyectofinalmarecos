@@ -1,0 +1,94 @@
+[
+    {
+        "id": "zapas-01",
+        "titulo": "Zapas 01",
+        "imagen": "./img/zapas1.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 55400
+    },
+    {
+        "id": "zapas-02",
+        "titulo": "Zapas 02",
+        "imagen": "./img/zapas2.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 38500
+    },
+    {
+        "id": "zapas-03",
+        "titulo": "Zapas 03",
+        "imagen": "./img/zapas3.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 30200
+    },
+ 
+    {
+        "id": "remera-01",
+        "titulo": "Remera 01",
+        "imagen": "./img/remera1.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 12400
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera 02",
+        "imagen": "./img/remera2.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 10900
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera 03",
+        "imagen": "./img/remera3.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 9900
+    },
+
+    {
+        "id": "jean-01",
+        "titulo": "Jean 01",
+        "imagen": "./img/cadenas.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "jean-02",
+        "titulo": "Jean 02",
+        "imagen": "./img/jean1.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 12400
+    },
+    {
+        "id": "Jean-03",
+        "titulo": "Jean 03",
+        "imagen": "./img/jean2.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 10940
+    }
+]
